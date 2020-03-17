@@ -1,2 +1,5 @@
 # Hello-World
-Just to learn about GitHub
+Pour savoir ce qu'est le GitHub.
+
+Bonjour tout le mond!
+Je m'appelle Kay. 
